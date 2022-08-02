@@ -1,0 +1,9 @@
+finrl==0.3.5
+gym==0.21.0
+matplotlib==3.3.4
+numpy==1.21.5
+pandas==1.3.5
+plotly==5.9.0
+pyfolio==0.9.2+75.g4b901f6
+stable_baselines3==1.6.0
+yfinance==0.1.63
